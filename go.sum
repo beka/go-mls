@@ -2,6 +2,8 @@ github.com/beka/go-hpke v0.0.0-20231029181932-957e2532b589 h1:6flV2T/Dl5YRwQ1ioX
 github.com/beka/go-hpke v0.0.0-20231029181932-957e2532b589/go.mod h1:M9/nnuAWQhYLR+XbGLWKllDRtEtXqpq/OiaRjC8dT4U=
 github.com/beka/go-hpke v0.0.0-20231029183953-c8f378171b48 h1:r7fHJqhLybPBIrOjb+AirwrvEO36EJ9tzDKi1yWZAKw=
 github.com/beka/go-hpke v0.0.0-20231029183953-c8f378171b48/go.mod h1:t4UoMwGGwo3vxFyFWrFfKfK4E+3QCZZi676FakBb0OE=
+github.com/beka/go-hpke v0.0.0-20231029190337-79c7c52b4d69 h1:M3MNgvCePOtT1/uKdCYh+InM5ij6qRryO7B1A5J/TnE=
+github.com/beka/go-hpke v0.0.0-20231029190337-79c7c52b4d69/go.mod h1:t4UoMwGGwo3vxFyFWrFfKfK4E+3QCZZi676FakBb0OE=
 github.com/bwesterb/go-ristretto v1.2.3/go.mod h1:fUIoIZaG73pV5biE2Blr2xEzDoMj7NFEuV9ekS419A0=
 github.com/cisco/go-tls-syntax v0.0.0-20200617162716-46b0cfb76b9b h1:Ves2turKTX7zruivAcUOQg155xggcbv3suVdbKCBQNM=
 github.com/cisco/go-tls-syntax v0.0.0-20200617162716-46b0cfb76b9b/go.mod h1:0AZAV7lYvynZQ5ErHlGMKH+4QYMyNCFd+AiL9MlrCYA=
